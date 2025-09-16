@@ -1,5 +1,5 @@
 {
-  "ignoreCommand": "echo 'Ignoring Supabase functions'",
+  "ignoreCommand": "echo 'Skipping supabase/functions directory'",
   "build": {
     "env": {
       "NEXT_PUBLIC_SUPABASE_URL": "@next_public_supabase_url",
