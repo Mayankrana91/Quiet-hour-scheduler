@@ -50,3 +50,6 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+tsconfig.base.json
+echo "tsconfig.base.json" >> .gitignore
